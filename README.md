@@ -378,7 +378,7 @@ kubectl create secret generic my-app-secret \
 # Check prerequisites
 aws --version        # AWS CLI v2.x
 terraform --version  # Terraform >= 1.3
-kubectl version      # kubectl v1.31
+kubectl version      # kubectl v1.35
 ```
 
 ### Step 1: Clone & Navigate
@@ -459,7 +459,7 @@ Total: 44 resources
 terraform output configure_kubectl
 
 # Or run directly
-aws eks --region us-east-1 update-kubeconfig --name day20-eks
+aws eks --region us-east-1 update-kubeconfig --name AWS_EKS_Terraform
 ```
 
 **What this does:**
