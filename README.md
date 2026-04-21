@@ -37,7 +37,7 @@ This project demonstrates **production-ready EKS cluster deployment** using **cu
 
 ## 🏗️ Architecture Diagram
 
-<img width="3064" height="1015" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/84a7bb13-34f1-4bf6-a3aa-baf957ac2b00" />
+<img width="3064" height="1115" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/84a7bb13-34f1-4bf6-a3aa-baf957ac2b00" />
 
 
 ### Traffic Flow
